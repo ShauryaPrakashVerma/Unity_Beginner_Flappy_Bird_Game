@@ -1,4 +1,5 @@
-Flappy Bird Clone (Unity)
+FLAPPY BIRD GAME CLONE
+
 A simple Flappy Bird clone made with Unity. This project replicates the core gameplay of the original Flappy Bird using C# scripts and Unity's 2D tools. It's designed for beginners looking to understand 2D game development in Unity.
 
 🎮 Features
